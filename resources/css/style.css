@@ -11,6 +11,20 @@ body {
     text-align: center;
 }
 
+.header--secondary{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.header--fourth{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: grey;
+    font-size: 21px;
+}
+
+
 .link--cta{
     color:aquamarine;
     font-size: 16px;
