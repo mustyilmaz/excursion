@@ -3,7 +3,7 @@ body {
     text-align: center;
 }
 
-h1{
+.header--main{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
     font-size: 50px;
